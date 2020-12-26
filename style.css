@@ -1,0 +1,13 @@
+#b1 { margin-top: 20px; margin-bottom: 20px; }
+ #b2 { display: none; margin-top: 20px; margin-bottom: 20px; }
+  input { margin: 10px; }
+  #d1{border: 1px solid green; 
+    padding: 10px;
+     background-color: greenyellow;
+     border-radius: 10px; 
+    width: 50%;}
+    #empty{border: 1px solid rgb(0, 128, 128); 
+        padding: 10px;
+         background-color: rgb(255, 158, 47);
+         border-radius: 10px; 
+        width: 50%;}
